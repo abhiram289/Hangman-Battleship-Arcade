@@ -1,30 +1,19 @@
-\# C Arcade Game 🎮
-
-
+# C Arcade Game 🎮
 
 A terminal-based arcade written in C featuring:
 
-\- Hangman
+- Hangman  
+- Battleship  
 
-\- Battleship
+## Features
 
+- Menu-driven gameplay  
+- Pure C (no external libraries)  
+- Designed as a mini project  
 
+## How to Run
 
-\## Features
-
-\- Menu-driven gameplay
-
-\- Pure C (no external libraries)
-
-\- Designed as a mini project
-
-
-
-\## How to Run
-
+### On Linux / macOS
 ```bash
-
 gcc team8.c -o team8
-
 ./team8
-
