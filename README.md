@@ -13,7 +13,6 @@ A terminal-based arcade written in C featuring:
 
 ## How to Run
 
-### On Linux / macOS
 ```bash
 gcc team8.c -o team8
 ./team8
